@@ -5,5 +5,5 @@
 - 📫 you can also reach me on X through @DeveloperOnearm
   
 - ⚡ Fun fact: i am interested in how things work and i believe theres pattern for everything.
-- it iseasier to solve problems when we can recognise a pattern
+- it is easier to solve problems when we can recognise a pattern
 
