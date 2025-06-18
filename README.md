@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @oneaarmdeveloper
-- 👀 I’m interested in full-stack software development and cybersecurity
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on fullstack and opensource projects
-- 📫 you can also reach me on X through @DeveloperOnearm
-  
-- ⚡ Fun fact: i am interested in how things work and i believe theres pattern for everything.
-- it is easier to solve problems when we can recognise a pattern
+# 👋 Hi, I’m Anselm — @oneaarmdeveloper
 
+🚀 I’m an aspiring **Full-Stack Software Developer** and **Cybersecurity Enthusiast**  
+💼 Currently doing my **Ausbildung als Fachinformatiker für Anwendungsentwicklung** at the **Rechenzentrum, Universität Regensburg (Germany)**.  
+🌱 Learning **PHP**, sharpening my skills in **JavaScript**, **Python**, and **Cybersecurity** concepts.  
+💻 Passionate about **building real-world applications**, solving problems, and exploring how technology works.  
+🛡️ I’m especially curious about **patterns** in software, systems, and cybersecurity to build better, safer solutions.
+
+## 🏗️ What I’m Working On
+- 🔨 Real-world projects in **web development** with a focus on **secure coding practices**
+- 📚 Algorithm design & pattern recognition
+- 🌐 Exploring open-source collaboration and contribution
+
+## 🤝 Let’s Connect!
+- 📬 Reach me on X: [@DeveloperOnearm](https://x.com/DeveloperOnearm)
+- 💼 Open to collaborate on **full-stack** and **cybersecurity** projects.
+
+⚡ **Fun Fact:** I believe **everything in tech is a pattern waiting to be discovered.** Once you see the pattern, the problem becomes easier.
+
+---
+> 🎯 *"Problems are easier to solve when you can recognize a pattern."*
