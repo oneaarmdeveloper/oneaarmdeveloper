@@ -2,12 +2,13 @@
 
 🚀 I’m an aspiring **Full-Stack Software Developer** and **Cybersecurity Enthusiast**  
 💼 Currently doing my **Ausbildung als Fachinformatiker für Anwendungsentwicklung** at the **Rechenzentrum, Universität Regensburg (Germany)**.  
-🌱 Learning **PHP**, sharpening my skills in **JavaScript**, **Python**, and **Cybersecurity** concepts.  
+🌱 Learning **SQL and Databank **, sharpening my skills in **JavaScript**, **Python**, and **Cybersecurity** concepts.  
 💻 Passionate about **building real-world applications**, solving problems, and exploring how technology works.  
 🛡️ I’m especially curious about **patterns** in software, systems, and cybersecurity to build better, safer solutions.
 
 ## 🏗️ What I’m Working On
 - 🔨 Real-world projects in **web development** with a focus on **secure coding practices**
+-     Security tools that will help Organisation better protect themselves against Attacks
 - 📚 Algorithm design & pattern recognition
 - 🌐 Exploring open-source collaboration and contribution
 
