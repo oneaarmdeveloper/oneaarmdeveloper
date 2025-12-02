@@ -8,7 +8,7 @@
 
 ##  What I’m Working On
 - Real-world projects in **web development** with a focus on **secure coding practices**
--     Security tools that will help Organisation better protect themselves against Attacks
+-  Security tools that will help Organisations protect themselves against Attacks
 -  Algorithm design & pattern recognition
 -  Exploring open-source collaboration and contribution
 
